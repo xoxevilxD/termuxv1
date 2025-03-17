@@ -28,7 +28,7 @@ banner () {
     ${BLUE}│${RED}░░█░░█▀▀░█▀▄░█░█░█░█░▄▀▄${ORANGE}░▄▄▄${RED}░${GREEN}▀▀█░░█░░░█░░█░░░█▀▀░░${BLUE}│
     ${BLUE}│${RED}░░▀░░▀▀▀░▀░▀░▀░▀░▀▀▀░▀░▀${ORANGE}░░░░░${GREEN}▀▀▀░░▀░░░▀░░▀▀▀░▀▀▀░░${BLUE}│
     ${BLUE}└──────────────────────────────────────────────────┘
-    ${BLUE}[${RED}*${BLUE}] ${ORANGE}By- TEAM XOX ${RED}//${BLUE} @xoxevilxd"
+    ${BLUE}[${RED}*${BLUE}] ${ORANGE}By- TEAM XOX ${RED}//${ORANGE} xoxevilxd"
 }
 
 ## Script Termination
