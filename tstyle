@@ -191,15 +191,15 @@ about_program () {
     │  			     ╹ ╹┗━┛┗━┛┗━┛ ╹ 			    │
     │───────────────────────────────────────────────────────────────│
     │                                                               │
-    │ >>  'termux-style' is a simple program that provides color    │
+    │ >>  'TERMUXV1 XOX' is a simple program that provides color    │
     │     schemes and powerline-ready fonts to customize the        │
     │     appearance of the termux terminal emulator.               │
     │                                                               │
     │                                                               │
-    │ >>  Author   :  Aditya Shakya                                 │
-    │     Twitter  :  https://twitter.com/adi1090x                  │
-    │     Github   :  https://github.com/adi1090x                   │
-    │     Reddit   :  https://www.reddit.com/user/adi1090x          │
+    │ >>  Author   :  @xoxevilxd #x                                 │
+    │     Telegram :  https://t.me/xoxevilxd                        │
+    │     Github   :  https://github.com/xoxevilxd                  │
+    │     Reddit   :  https://www.reddit.com/user/xoxevilxd         │
     │                                                               │
     └───────────────────────────────────────────────────────────────┘"
     { echo; read -p "    ${BLUE}[${RED}*${BLUE}] ${GREEN}Press ${GREENBG}${BLACK} Enter ${DEFAULT_BG}${GREEN} To Return To Main Menu."; }
